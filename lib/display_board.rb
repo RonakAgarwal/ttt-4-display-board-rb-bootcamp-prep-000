@@ -13,4 +13,4 @@
 
 board = ["O","X","O","X"," "," ","O","X"," "]
 
-display_board(board)
+puts display_board(board)
